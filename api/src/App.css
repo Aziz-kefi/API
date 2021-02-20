@@ -1,0 +1,9 @@
+html{
+  z-index: 5;
+}
+.App{
+display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+}
